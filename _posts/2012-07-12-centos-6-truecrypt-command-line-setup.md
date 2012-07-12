@@ -2,8 +2,8 @@
 layout: post
 title: "centOS 6 Truecrypt command line setup"
 description: ""
-category: 
-tags: [linux,truecrypt,centOS]
+category: linux
+tags: [linux, truecrypt, centOS]
 ---
 {% include JB/setup %}
 
