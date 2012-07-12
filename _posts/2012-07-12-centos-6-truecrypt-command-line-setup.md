@@ -39,8 +39,8 @@ Heh. Also had to install man
 	yum install man
 
 
-TC should be ready to go. Check `truecrypt -c` for info. 
+TC should be ready to go. Check `truecrypt -h | less` for info. 
 
-Once you've initialized a volume and have mounted it via `truecrypt --mount` you need to remember to `umount /media/truecrypt1` before running `truecrypt -d` lest the lock will preven TC from unmounting the drive. 
+Once you've initialized a volume via `truecrypt -c` and have mounted it via `truecrypt --mount` you need to remember to `umount /media/truecrypt1` before running `truecrypt -d` lest the lock will preven TC from unmounting the drive. 
 
 Also, don't forget your passwords. 
