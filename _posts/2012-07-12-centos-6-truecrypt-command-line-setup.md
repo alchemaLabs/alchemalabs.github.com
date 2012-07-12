@@ -29,7 +29,7 @@ Open the tar, and execute installer
     tar zxvf truecrypt-7.1a-linux-console-x86.tar.gz 
     ./truecrypt-7.1a-setup-console-x86
 
-Ay this point, I found I was missing some stuff. Hard to tell as I'm just looking through history...but you'll need fuse
+At this point, I found I was missing some stuff. Hard to tell as I'm just looking through history...but you'll need fuse
 
 	yum install libfuse
 	yum install fuse-libs
